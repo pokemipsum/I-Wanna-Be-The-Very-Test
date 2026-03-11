@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+
+p {
+	margin: auto;
+	padding: 25px 10px;
+	width: 400px;
+}
+
+button {
+	margin: auto;
+	padding: 10px;
+}
